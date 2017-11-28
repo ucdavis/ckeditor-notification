@@ -8,6 +8,6 @@
 	"homepage": "https://ckeditor.com/cke4/addon/notification",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ckeditor/ckeditor-dev/tree/master/plugins/notification"
+		"url": "https://github.com/ucdavis/ckeditor-notification"
 	}
 }
